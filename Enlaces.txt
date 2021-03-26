@@ -1,0 +1,5 @@
+Enlace Github: https://github.com/RenataRmz/Final_Project_.git
+Dashboard: https://datastudio.google.com/reporting/8c1557f3-5755-45ee-b539-d0223837256c
+Notebook para Dashboard: https://colab.research.google.com/drive/1ruzkW7sgT01RDGRccCQu6PlJWhHZThFm?usp=sharing
+Encuesta: https://forms.gle/Rum6q47m8rRAbp916
+
